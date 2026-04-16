@@ -1,23 +1,31 @@
 
 h1 {
-    color: blue;
-    text-align: center;
+    color: blueviolet;
+    text-align: left;
     font-style: italic;
-    font-weight: 200;
+    font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+    font-size: larger;
     line-height: normal;
 }
 
 h2 {
-    color: magenta;
-    font-style: italic;
+    color: peachpuff;
+    font-style:oblique
 }
 
 body {
-    background-color: beige;
+    background-color: burlywood;
 }
 
 #sentence1{
     color: green;
+}
+
+#sentence2{
+    color:azure;
+}
+
+#sentence3{
+    color: purple;
 }
